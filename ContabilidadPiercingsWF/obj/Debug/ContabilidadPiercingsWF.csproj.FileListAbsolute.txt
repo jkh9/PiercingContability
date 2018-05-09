@@ -1,0 +1,47 @@
+C:\Users\jkh9L\source\repos\ContabilidadPiercingsWF\ContabilidadPiercingsWF\bin\Debug\ContabilidadPiercingsWF.exe.config
+C:\Users\jkh9L\source\repos\ContabilidadPiercingsWF\ContabilidadPiercingsWF\bin\Debug\ContabilidadPiercingsWF.exe
+C:\Users\jkh9L\source\repos\ContabilidadPiercingsWF\ContabilidadPiercingsWF\bin\Debug\ContabilidadPiercingsWF.pdb
+C:\Users\jkh9L\source\repos\ContabilidadPiercingsWF\ContabilidadPiercingsWF\obj\Debug\ContabilidadPiercingsWF.csprojResolveAssemblyReference.cache
+C:\Users\jkh9L\source\repos\ContabilidadPiercingsWF\ContabilidadPiercingsWF\obj\Debug\ContabilidadPiercingsWF.PantallaConfiguracion.resources
+C:\Users\jkh9L\source\repos\ContabilidadPiercingsWF\ContabilidadPiercingsWF\obj\Debug\ContabilidadPiercingsWF.PantallaPrincipal.resources
+C:\Users\jkh9L\source\repos\ContabilidadPiercingsWF\ContabilidadPiercingsWF\obj\Debug\ContabilidadPiercingsWF.PantallaVentas.resources
+C:\Users\jkh9L\source\repos\ContabilidadPiercingsWF\ContabilidadPiercingsWF\obj\Debug\ContabilidadPiercingsWF.Properties.Resources.resources
+C:\Users\jkh9L\source\repos\ContabilidadPiercingsWF\ContabilidadPiercingsWF\obj\Debug\ContabilidadPiercingsWF.csproj.GenerateResource.Cache
+C:\Users\jkh9L\source\repos\ContabilidadPiercingsWF\ContabilidadPiercingsWF\obj\Debug\ContabilidadPiercingsWF.csproj.CoreCompileInputs.cache
+C:\Users\jkh9L\source\repos\ContabilidadPiercingsWF\ContabilidadPiercingsWF\obj\Debug\ContabilidadPiercingsWF.exe
+C:\Users\jkh9L\source\repos\ContabilidadPiercingsWF\ContabilidadPiercingsWF\obj\Debug\ContabilidadPiercingsWF.pdb
+C:\Users\jkh9L\source\repos\ContabilidadPiercingsWF\ContabilidadPiercingsWF\obj\Debug\ContabilidadPiercingsWF.VentanaVentas.resources
+C:\Users\jkh9L\source\repos\ContabilidadPiercingsWF\ContabilidadPiercingsWF\obj\Debug\ContabilidadPiercingsWF.VentanaCompras.resources
+C:\Users\jkh9L\source\repos\ContabilidadPiercingsWF\ContabilidadPiercingsWF\obj\Debug\ContabilidadPiercingsWF.PantallaCompras.resources
+C:\Users\jkh9L\Google Drive\Programas\ContabilidadPiercingsWF\ContabilidadPiercingsWF\bin\Debug\ContabilidadPiercingsWF.exe.config
+C:\Users\jkh9L\Google Drive\Programas\ContabilidadPiercingsWF\ContabilidadPiercingsWF\bin\Debug\ContabilidadPiercingsWF.exe
+C:\Users\jkh9L\Google Drive\Programas\ContabilidadPiercingsWF\ContabilidadPiercingsWF\bin\Debug\ContabilidadPiercingsWF.pdb
+C:\Users\jkh9L\Google Drive\Programas\ContabilidadPiercingsWF\ContabilidadPiercingsWF\obj\Debug\ContabilidadPiercingsWF.PantallaCompras.resources
+C:\Users\jkh9L\Google Drive\Programas\ContabilidadPiercingsWF\ContabilidadPiercingsWF\obj\Debug\ContabilidadPiercingsWF.PantallaConfiguracion.resources
+C:\Users\jkh9L\Google Drive\Programas\ContabilidadPiercingsWF\ContabilidadPiercingsWF\obj\Debug\ContabilidadPiercingsWF.PantallaPrincipal.resources
+C:\Users\jkh9L\Google Drive\Programas\ContabilidadPiercingsWF\ContabilidadPiercingsWF\obj\Debug\ContabilidadPiercingsWF.PantallaVentas.resources
+C:\Users\jkh9L\Google Drive\Programas\ContabilidadPiercingsWF\ContabilidadPiercingsWF\obj\Debug\ContabilidadPiercingsWF.Properties.Resources.resources
+C:\Users\jkh9L\Google Drive\Programas\ContabilidadPiercingsWF\ContabilidadPiercingsWF\obj\Debug\ContabilidadPiercingsWF.csproj.GenerateResource.Cache
+C:\Users\jkh9L\Google Drive\Programas\ContabilidadPiercingsWF\ContabilidadPiercingsWF\obj\Debug\ContabilidadPiercingsWF.csproj.CoreCompileInputs.cache
+C:\Users\jkh9L\Google Drive\Programas\ContabilidadPiercingsWF\ContabilidadPiercingsWF\obj\Debug\ContabilidadPiercingsWF.exe
+C:\Users\jkh9L\Google Drive\Programas\ContabilidadPiercingsWF\ContabilidadPiercingsWF\obj\Debug\ContabilidadPiercingsWF.pdb
+C:\Users\jkh9L\Google Drive\Programas\ContabilidadPiercingsWF\ContabilidadPiercingsWF\obj\Debug\ContabilidadPiercingsWF.ComprasDiarias.resources
+C:\Users\jkh9L\Google Drive\Programas\ContabilidadPiercingsWF\ContabilidadPiercingsWF\obj\Debug\ContabilidadPiercingsWF.VentasDiarias.resources
+C:\Users\jkh9L\Google Drive\Programas\ContabilidadPiercingsWF\ContabilidadPiercingsWF\obj\Debug\ContabilidadPiercingsWF.PantallaConfirmacionPiercing.resources
+C:\Users\jkh9L\Google Drive\Programas\ContabilidadPiercingsWF\ContabilidadPiercingsWF\obj\Debug\ContabilidadPiercingsWF.csprojResolveAssemblyReference.cache
+C:\Users\jkh9L\Desktop\Proyectos GitHub\ContabilidadPiercingsWF\ContabilidadPiercingsWF\bin\Debug\ContabilidadPiercingsWF.exe.config
+C:\Users\jkh9L\Desktop\Proyectos GitHub\ContabilidadPiercingsWF\ContabilidadPiercingsWF\bin\Debug\ContabilidadPiercingsWF.exe
+C:\Users\jkh9L\Desktop\Proyectos GitHub\ContabilidadPiercingsWF\ContabilidadPiercingsWF\bin\Debug\ContabilidadPiercingsWF.pdb
+C:\Users\jkh9L\Desktop\Proyectos GitHub\ContabilidadPiercingsWF\ContabilidadPiercingsWF\obj\Debug\ContabilidadPiercingsWF.csprojResolveAssemblyReference.cache
+C:\Users\jkh9L\Desktop\Proyectos GitHub\ContabilidadPiercingsWF\ContabilidadPiercingsWF\obj\Debug\ContabilidadPiercingsWF.PantallaCompras.resources
+C:\Users\jkh9L\Desktop\Proyectos GitHub\ContabilidadPiercingsWF\ContabilidadPiercingsWF\obj\Debug\ContabilidadPiercingsWF.PantallaConfiguracion.resources
+C:\Users\jkh9L\Desktop\Proyectos GitHub\ContabilidadPiercingsWF\ContabilidadPiercingsWF\obj\Debug\ContabilidadPiercingsWF.PantallaConfirmacionPiercing.resources
+C:\Users\jkh9L\Desktop\Proyectos GitHub\ContabilidadPiercingsWF\ContabilidadPiercingsWF\obj\Debug\ContabilidadPiercingsWF.PantallaPrincipal.resources
+C:\Users\jkh9L\Desktop\Proyectos GitHub\ContabilidadPiercingsWF\ContabilidadPiercingsWF\obj\Debug\ContabilidadPiercingsWF.PantallaVentas.resources
+C:\Users\jkh9L\Desktop\Proyectos GitHub\ContabilidadPiercingsWF\ContabilidadPiercingsWF\obj\Debug\ContabilidadPiercingsWF.Properties.Resources.resources
+C:\Users\jkh9L\Desktop\Proyectos GitHub\ContabilidadPiercingsWF\ContabilidadPiercingsWF\obj\Debug\ContabilidadPiercingsWF.ComprasDiarias.resources
+C:\Users\jkh9L\Desktop\Proyectos GitHub\ContabilidadPiercingsWF\ContabilidadPiercingsWF\obj\Debug\ContabilidadPiercingsWF.VentasDiarias.resources
+C:\Users\jkh9L\Desktop\Proyectos GitHub\ContabilidadPiercingsWF\ContabilidadPiercingsWF\obj\Debug\ContabilidadPiercingsWF.csproj.GenerateResource.Cache
+C:\Users\jkh9L\Desktop\Proyectos GitHub\ContabilidadPiercingsWF\ContabilidadPiercingsWF\obj\Debug\ContabilidadPiercingsWF.csproj.CoreCompileInputs.cache
+C:\Users\jkh9L\Desktop\Proyectos GitHub\ContabilidadPiercingsWF\ContabilidadPiercingsWF\obj\Debug\ContabilidadPiercingsWF.exe
+C:\Users\jkh9L\Desktop\Proyectos GitHub\ContabilidadPiercingsWF\ContabilidadPiercingsWF\obj\Debug\ContabilidadPiercingsWF.pdb
